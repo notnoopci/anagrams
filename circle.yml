@@ -1,0 +1,4 @@
+dependencies:
+  pre:
+    - gem update --system 2.0.0
+
