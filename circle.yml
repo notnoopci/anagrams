@@ -2,3 +2,6 @@ dependencies:
   pre:
     - gem update --system 2.0.0
 
+test:
+  override:
+    - bundle exec rake
